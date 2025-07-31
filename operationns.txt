@@ -1,0 +1,7 @@
+operations:
+c:create 
+r:read
+u:update 
+d:delete 
+dom manipulation(like tree structure ) html like start with divided in diffrent parts and with end they meet togtheer
+
